@@ -1,0 +1,16 @@
+C:\Users\honki\Desktop\BattleshipsRecrutation\BattleshipsRecrutation\obj\Debug\net5.0\BattleshipsRecrutation.csprojAssemblyReference.cache
+C:\Users\honki\Desktop\BattleshipsRecrutation\BattleshipsRecrutation\obj\Debug\net5.0\BattleshipsRecrutation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honki\Desktop\BattleshipsRecrutation\BattleshipsRecrutation\obj\Debug\net5.0\BattleshipsRecrutation.AssemblyInfoInputs.cache
+C:\Users\honki\Desktop\BattleshipsRecrutation\BattleshipsRecrutation\obj\Debug\net5.0\BattleshipsRecrutation.AssemblyInfo.cs
+C:\Users\honki\Desktop\BattleshipsRecrutation\BattleshipsRecrutation\obj\Debug\net5.0\BattleshipsRecrutation.csproj.CoreCompileInputs.cache
+C:\Users\honki\Desktop\BattleshipsRecrutation\BattleshipsRecrutation\bin\Debug\net5.0\BattleshipsRecrutation.exe
+C:\Users\honki\Desktop\BattleshipsRecrutation\BattleshipsRecrutation\bin\Debug\net5.0\BattleshipsRecrutation.deps.json
+C:\Users\honki\Desktop\BattleshipsRecrutation\BattleshipsRecrutation\bin\Debug\net5.0\BattleshipsRecrutation.runtimeconfig.json
+C:\Users\honki\Desktop\BattleshipsRecrutation\BattleshipsRecrutation\bin\Debug\net5.0\BattleshipsRecrutation.runtimeconfig.dev.json
+C:\Users\honki\Desktop\BattleshipsRecrutation\BattleshipsRecrutation\bin\Debug\net5.0\BattleshipsRecrutation.dll
+C:\Users\honki\Desktop\BattleshipsRecrutation\BattleshipsRecrutation\bin\Debug\net5.0\ref\BattleshipsRecrutation.dll
+C:\Users\honki\Desktop\BattleshipsRecrutation\BattleshipsRecrutation\bin\Debug\net5.0\BattleshipsRecrutation.pdb
+C:\Users\honki\Desktop\BattleshipsRecrutation\BattleshipsRecrutation\obj\Debug\net5.0\BattleshipsRecrutation.dll
+C:\Users\honki\Desktop\BattleshipsRecrutation\BattleshipsRecrutation\obj\Debug\net5.0\ref\BattleshipsRecrutation.dll
+C:\Users\honki\Desktop\BattleshipsRecrutation\BattleshipsRecrutation\obj\Debug\net5.0\BattleshipsRecrutation.pdb
+C:\Users\honki\Desktop\BattleshipsRecrutation\BattleshipsRecrutation\obj\Debug\net5.0\BattleshipsRecrutation.genruntimeconfig.cache
